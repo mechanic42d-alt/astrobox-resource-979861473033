@@ -1,0 +1,44 @@
+{
+  "item": {
+    "id": "979861473033",
+    "restype": "watchface",
+    "name": "拳分夺秒",
+    "description": "《拳分夺秒》把时间放进一个小小的拳击擂台。小时数字在场边观战，分钟数字化身拳手自动对打。每分钟换一回合，登场的拳手也跟着时间变化。\n\n### 玩法\n- **自动对打**　亮屏后可以看到两位数字拳手出拳、防守、闪避和受击。\n- **点按互动**　轻点擂台上的拳手触发受击动画。快速连续点按同一位五次，可触发击倒与回场动画。\n- **时间与息屏**　数字角色同时显示时间。息屏时暂停对打，保留时间显示。\n\n### English\nFight the Clock turns the time into a tiny boxing match. The hour digits watch from ringside while the minute digits spar. A new round begins each minute, and the fighters change with the time.\n\n- **Watch them spar.** Wake the screen to see the two fighters throw punches, guard, dodge and react to hits.\n- **Tap to interact.** Tap a fighter to trigger a hit reaction. Tap the same fighter five times in quick succession to see a knockdown and return to the ring.\n- **Check the time.** The digits show the time. Always-on display keeps the time visible while the match pauses.",
+    "preview": [
+      "media/01-自动对打.webp",
+      "media/02-点按五连击.webp",
+      "media/03-分钟换场.webp",
+      "media/04-熄屏显示-海报.jpg"
+    ],
+    "icon": "media/拳分夺秒-正方形图标.png",
+    "cover": "media/01-拳分夺秒-头图.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/item/ff2729e8e8d111f18def5254001e7c00",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
