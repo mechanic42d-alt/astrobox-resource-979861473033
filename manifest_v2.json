@@ -36,6 +36,16 @@
       "version": "1.0.0",
       "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
       "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
+      "versionCode": 65536
     }
   },
   "ext": {
