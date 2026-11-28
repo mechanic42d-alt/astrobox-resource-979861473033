@@ -28,24 +28,48 @@
   ],
   "downloads": {
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/拳分夺秒-小米手环11-r45.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修复熄屏显示未正确遵循手环系统 12／24 小时制设置的问题。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/拳分夺秒-小米手环11-r44.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/拳分夺秒-小米手环11-r45.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修复熄屏显示未正确遵循手环系统 12／24 小时制设置的问题。"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/拳分夺秒-小米手环10系列-r44.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/拳分夺秒-小米手环11-r45.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修复熄屏显示未正确遵循手环系统 12／24 小时制设置的问题。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/拳分夺秒-小米手环10系列-r44.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/拳分夺秒-小米手环11-r45.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修复熄屏显示未正确遵循手环系统 12／24 小时制设置的问题。"
+        }
+      ]
     }
   },
   "ext": {
